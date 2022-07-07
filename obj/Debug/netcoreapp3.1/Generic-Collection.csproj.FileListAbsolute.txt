@@ -1,0 +1,14 @@
+C:\Users\Windows\source\repos\Generic-Collection\bin\Debug\netcoreapp3.1\Generic-Collection.exe
+C:\Users\Windows\source\repos\Generic-Collection\bin\Debug\netcoreapp3.1\Generic-Collection.deps.json
+C:\Users\Windows\source\repos\Generic-Collection\bin\Debug\netcoreapp3.1\Generic-Collection.runtimeconfig.json
+C:\Users\Windows\source\repos\Generic-Collection\bin\Debug\netcoreapp3.1\Generic-Collection.runtimeconfig.dev.json
+C:\Users\Windows\source\repos\Generic-Collection\bin\Debug\netcoreapp3.1\Generic-Collection.dll
+C:\Users\Windows\source\repos\Generic-Collection\bin\Debug\netcoreapp3.1\Generic-Collection.pdb
+C:\Users\Windows\source\repos\Generic-Collection\obj\Debug\netcoreapp3.1\Generic-Collection.csproj.AssemblyReference.cache
+C:\Users\Windows\source\repos\Generic-Collection\obj\Debug\netcoreapp3.1\Generic-Collection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Windows\source\repos\Generic-Collection\obj\Debug\netcoreapp3.1\Generic-Collection.AssemblyInfoInputs.cache
+C:\Users\Windows\source\repos\Generic-Collection\obj\Debug\netcoreapp3.1\Generic-Collection.AssemblyInfo.cs
+C:\Users\Windows\source\repos\Generic-Collection\obj\Debug\netcoreapp3.1\Generic-Collection.csproj.CoreCompileInputs.cache
+C:\Users\Windows\source\repos\Generic-Collection\obj\Debug\netcoreapp3.1\Generic-Collection.dll
+C:\Users\Windows\source\repos\Generic-Collection\obj\Debug\netcoreapp3.1\Generic-Collection.pdb
+C:\Users\Windows\source\repos\Generic-Collection\obj\Debug\netcoreapp3.1\Generic-Collection.genruntimeconfig.cache
